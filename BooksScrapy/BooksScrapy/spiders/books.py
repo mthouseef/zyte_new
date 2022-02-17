@@ -1,5 +1,4 @@
 import scrapy
-#from BooksScrapy.items import BookItem
 from items import BookItem
 from scrapy.loader import ItemLoader
 
