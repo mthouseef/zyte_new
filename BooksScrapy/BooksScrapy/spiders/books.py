@@ -1,5 +1,5 @@
 import scrapy
-from BooksScrapy.BooksScrapy.items import BookItem
+from items import BookItem
 from scrapy.loader import ItemLoader
 
 
